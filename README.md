@@ -3,7 +3,7 @@ Apuntes del Módulo Sistemas de Gestión Empresarial del 2º de CFGS Desarrollo 
 
 
 Se incluyen materiales en:
-- **Castellano**: Generados como apuntes libres).
+- **Castellano**: Generados como apuntes libres.
 - **Valenciano**: basados en los materiales de castellano, son los que utilizo en mi práctica docente. Incluyen algunas variaciones, ejercicios y retos colaborativos.
 
 Tags: #fpinfor #SGE #SistemasGestionEmpresarial #DAM #CFGS #INFORMATICA #MULTIPLATAFORMA #ODOO
