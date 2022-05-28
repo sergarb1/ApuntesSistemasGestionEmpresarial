@@ -1,6 +1,7 @@
 # Apuntes Curso 21/22 Sistemas de Gestión Empresarial (SGE)
 Apuntes del Módulo Sistemas de Gestión Empresarial del 2º de CFGS Desarrollo de Aplicaciones Multiplataforma
 
+- **Autor principal** : José Castillo.
 
 Se incluyen materiales en:
 - **Castellano**: Generados como apuntes libres.
