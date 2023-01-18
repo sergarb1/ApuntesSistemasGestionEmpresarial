@@ -8,3 +8,7 @@ Se incluyen materiales en:
 - **Valenciano**: basados en los materiales de castellano, son los que utilizo en mi práctica docente. Incluyen algunas variaciones, ejercicios y retos colaborativos.
 
 Tags: #fpinfor #SGE #SistemasGestionEmpresarial #DAM #CFGS #INFORMATICA #MULTIPLATAFORMA #ODOO
+
+La distribución de este repositorio es:
+- Castellano: solo apuntes.
+- Valenciano: apuntes, actividades (presencial y semipresencial) y retos colaborativos.
