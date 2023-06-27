@@ -1,5 +1,4 @@
-# Apuntes Curso 21/22 Sistemas de Gestión Empresarial (SGE)
-# Ultima actualización 27-06-2023 (Odoo 16)
+# Apuntes Sistemas de Gestión Empresarial (SGE) - Actualizado 27-06-2023 (Odoo 16)
 Apuntes del Módulo Sistemas de Gestión Empresarial del 2º de CFGS Desarrollo de Aplicaciones Multiplataforma
 
 - **Autor principal** : José Castillo.
