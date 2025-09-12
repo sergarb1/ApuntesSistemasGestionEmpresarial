@@ -1,7 +1,7 @@
 # Apuntes Sistemas de Gestión Empresarial (SGE) - Actualizado 10-09-2025 (Odoo 18)
 Apuntes del Módulo Sistemas de Gestión Empresarial del 2º de CFGS Desarrollo de Aplicaciones Multiplataforma
 
-- **Autor principal** : José Castillo.
+- **Autores principales** : José Castillo y Sergi García.
 
 Se incluyen materiales en:
 - **Castellano**: Generados como apuntes libres.
